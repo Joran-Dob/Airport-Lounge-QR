@@ -1,0 +1,1 @@
+var myApp=new Framework7,$$=Dom7,myApp=new Framework7({pushState:!0,swipePanel:"left",material:!0,cache:!0}),mainView=myApp.addView(".view-main",{material:!0,dynamicNavbar:!0});
