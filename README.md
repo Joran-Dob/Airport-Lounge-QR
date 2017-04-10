@@ -1,3 +1,3 @@
-# Airport-Lounge-QR
+# Airport Lounge QR code generator.
 
-<h1>This webapps makes it possible to generate QR codes for flights that give you access to primeum lounges.</h
+<p>This webapps makes it possible to generate QR codes for flights that give you access to premium lounges.</p>
