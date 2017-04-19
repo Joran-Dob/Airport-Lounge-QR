@@ -15,5 +15,5 @@
 ## Featured
 
 * The Next Web <br>
-      <a href="https://thenextweb.com/apps/2016/08/05/i-want-this/#.tnw_FYYRUuV1"> Hacker sneaks into airport lounges by generating fake QR codes on his phone</a>
+      <a target="_blank" href="https://thenextweb.com/apps/2016/08/05/i-want-this/#.tnw_FYYRUuV1"> Hacker sneaks into airport lounges by generating fake QR codes on his phone</a>
   
